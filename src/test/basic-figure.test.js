@@ -1,4 +1,4 @@
-import BasicFigure from '../basic-figure'
+import BasicFigure from '../basic-figure.js'
 
 describe('BasicFigure getters', () => {
     it('should return correct left/right/top/bottom for a point', () => {

@@ -1,4 +1,4 @@
-import Circle from '../circle'
+import Circle from '../circle.js'
 
 describe('Circle getters', () => {
     it('should calculate left/right/top/bottom using radius', () => {

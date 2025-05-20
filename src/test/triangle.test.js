@@ -1,4 +1,4 @@
-import Triangle from '../triangle'
+import Triangle from '../triangle.js'
 
 describe('Triangle getters', () => {
     it('should calculate borders correctly', () => {

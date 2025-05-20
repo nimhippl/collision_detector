@@ -1,4 +1,4 @@
-import Hexagon from '../hexagon'
+import Hexagon from '../hexagon.js'
 
 describe('Hexagon getters', () => {
     it('should calculate left/right/top/bottom using bounding box', () => {

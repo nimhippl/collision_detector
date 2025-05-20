@@ -1,6 +1,6 @@
-import Rectangle from '../rectangle'
-import QuadTree  from '../quad-tree'
-import BasicFigure from '../basic-figure'
+import Rectangle from '../rectangle.js'
+import QuadTree  from '../quad-tree.js'
+import BasicFigure from '../basic-figure.js'
 
 describe('QuadTree initial state', () => {
     it('should be empty and not subdivided', () => {

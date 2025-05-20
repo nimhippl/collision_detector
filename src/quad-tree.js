@@ -1,4 +1,4 @@
-import Rectangle from './rectangle'
+import Rectangle from './rectangle.js'
 
 export default class QuadTree {
     constructor(boundary, capacity = 4) {

@@ -1,8 +1,8 @@
-import Rectangle from "./rectangle";
-import Circle    from "./circle";
-import Triangle  from "./triangle";
-import Hexagon   from "./hexagon";
-import QuadTree  from "./quad-tree";
+import Rectangle from "./rectangle.js";
+import Circle    from "./circle.js";
+import Triangle  from "./triangle.js";
+import Hexagon   from "./hexagon.js";
+import QuadTree  from "./quad-tree.js";
 
 const canvas = document.getElementById("cnvs");
 const ctx    = canvas.getContext("2d");
